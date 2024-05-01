@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#user-input {
+  padding: 8px;
+  margin-right: 10px;
+}
+
+#check-btn, #clear-btn {
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+#results-div {
+  margin-top: 10px;
+}
